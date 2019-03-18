@@ -1,2 +1,5 @@
 # Handwritten-Number-Recognition
-Code based on the Andrew Ng's Machine learning course 
+Code based on the Andrew Ng's Machine learning course
+
+Language used:
+Octave
